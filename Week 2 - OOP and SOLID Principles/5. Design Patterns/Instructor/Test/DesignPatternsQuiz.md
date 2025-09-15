@@ -70,5 +70,5 @@ Multiple-Choice Questions on Design Patterns
 1. A design pattern always produces the most efficient solution
 2. A design pattern is language-specific, while an algorithm is language-independent
 3. An algorithm focuses on structure, while a design pattern focuses only on syntax 
-4. An algorithm is a step-by-step procedure, while a pattern is a reusable design template for solving a class of problems 
+4. **_An algorithm is a step-by-step procedure, while a pattern is a reusable design template for solving a class of problems**_ 
 5. Do not know
